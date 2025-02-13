@@ -45,3 +45,8 @@ For each permutation, we recursively try all possible sequences of operations (`
 - Division is only performed if it results in an **integer**.
 - Subtraction only occurs if the result is **non-negative**.
 - If a valid solution matches the target, it is sent to the **solutions channel**.
+
+## Demo
+
+https://github.com/user-attachments/assets/29b02344-508a-4a50-8877-7fe5e1abaa27
+
